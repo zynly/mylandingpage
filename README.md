@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://qu.ax/qESyd.jpg" alt="Yilzi Portfolio Banner" width="900" style="border-radius: 15px; box-shadow: 0 8px 30px rgba(30, 144, 255, 0.4), 0 0 15px rgba(0, 191, 255, 0.2); transition: transform 0.4s ease-in-out; position: relative; z-index: 1;" onmouseover="this.style.transform='scale(1.03) rotate(2deg)';" onmouseout="this.style.transform='scale(1) rotate(0deg)';"/>
+  <img src="https://qu.ax/qESyd.jpg" alt="ZYNLY" width="900" style="border-radius: 15px; box-shadow: 0 8px 30px rgba(30, 144, 255, 0.4), 0 0 15px rgba(0, 191, 255, 0.2); transition: transform 0.4s ease-in-out; position: relative; z-index: 1;" onmouseover="this.style.transform='scale(1.03) rotate(2deg)';" onmouseout="this.style.transform='scale(1) rotate(0deg)';"/>
 </p>
 
 <div style="background: linear-gradient(135deg, #1C2526, #2A3D5A); padding: 50px; border-radius: 15px; box-shadow: 0 12px 40px rgba(0, 0, 0, 0.7), inset 0 0 15px rgba(30, 144, 255, 0.1); color: #E6F3FF; font-family: 'Inter', sans-serif; text-align: center; position: relative; overflow: hidden;">
